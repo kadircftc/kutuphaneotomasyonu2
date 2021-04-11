@@ -1,0 +1,10 @@
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\bin\Debug\kütüphaneotomasyonu2.exe.config
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\bin\Debug\kütüphaneotomasyonu2.exe
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\bin\Debug\kütüphaneotomasyonu2.pdb
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.csprojAssemblyReference.cache
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.Form1.resources
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.Properties.Resources.resources
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.exe
+C:\Users\Kadir\source\repos\kütüphaneotomasyonu2\kütüphaneotomasyonu2\obj\Debug\kütüphaneotomasyonu2.pdb
